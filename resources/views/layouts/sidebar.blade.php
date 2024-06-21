@@ -89,11 +89,6 @@
             </li>
             @else
             <li>
-                <a href="{{ route('transaksi.index') }}">
-                    <i class="fa fa-cart-arrow-down"></i> <span>Active Transactions</span>
-                </a>
-            </li>
-            <li>
                 <a href="{{ route('transaksi.baru') }}">
                     <i class="fa fa-cart-arrow-down"></i> <span>New Transactions</span>
                 </a>
