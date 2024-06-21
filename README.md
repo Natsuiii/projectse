@@ -26,6 +26,8 @@ Aplikasi POS atau point of sales adalah aplikasi yang digunakan untuk mengelola 
   - Upload Desain Kartu Member
   - Setting Diskon Member
 - User (Administrator, Kasir)
+  - Akun admin : admin@gmail.com, password : 123
+  - Akun kasir = kasir1@gmail.com, password : 123
 - Grafik ChartJS pada Dashboard
 
 ## Instalasi
